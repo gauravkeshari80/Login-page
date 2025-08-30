@@ -4,7 +4,7 @@
 A clean and responsive login page built using HTML and CSS. This project demonstrates basic frontend design principles including layout structuring, form styling, and responsive design.
 
 ## 🚀 Live Preview
-[Click here to view the live site](https://github.com/gauravkeshari80)  
+[Click here to view the live site](https://gauravkeshari80.github.io/Login-page/)  
 *(Replace with your actual GitHub Pages link)*
 
 ## 📁 Project Structure
