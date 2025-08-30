@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box ;
+    
+}
+html,body{
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center; 
+    background: #1abc9c; 
+}
+.wrapper{
+    width: 400px;
+    background: #fff;
+    border-radius: 5px;
+}
+.wrapper .tittle{
+    line-height: 80px;
+    background: #69cab6;
+    padding-left:20px ;
+    border-radius: 5px 5px 0px 0px ;
+    color: #fff;
+    font-size: 25px;
+    font-family: 600;
+}
+.wrapper form{
+    padding: 30px 20px 20px 20px;
+}
+.row{
+    height: 45px;
+    
+    margin-bottom: 15px;
+    position: relative;
+}
+.row input{
+    height: 100%;
+    width: 100%;
+    padding-left: 60px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    font-size: 16px;
+}
+.row i{
+    position: absolute;
+    width: 47px;
+    height: 100%;
+    font-size: 16px;
+    background: #1abc9c;
+    border: 1px solid #1abc9c;
+    border-radius: 5px 0px 0px 5px ;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button input{
+    padding-left: 0px;
+    background: #1abc9c;
+    border: 1px solid #1abc9c;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+}
+.sign-up{
+    padding: 5px;
+    font-size: 17px;
+    text-align: center;
+}
+
