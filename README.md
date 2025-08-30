@@ -27,7 +27,7 @@ A clean and responsive login page built using HTML and CSS. This project demonst
 
 ## 🙋‍♂️ Author
 **Aryanu** – First-year BCA student passionate about frontend development  
-[LinkedIn](www.linkedin.com/in/aryan-keshari-0067b1378) | [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/aryan-keshari-0067b1378) | [GitHub](https://github.com/gauravkeshari80)
 
 ## 📃 License
 This project is open-source and available under the [MIT License](LICENSE).
